@@ -1,0 +1,32 @@
+#body {
+    background-color: rgb(32, 30, 30);
+    background-size: 80%;
+}
+.head h1 {
+    font-family: 'Black Ops One', cursive;
+    font-size: 100px;
+    text-align: center;
+    color:#F8DE22;
+}
+.dice-images img {
+    width: 300px;
+    height: inherit;    
+}
+.players h1 {
+    color: #ec0e0e;
+    text-align: center;
+font-family: 'Metal Mania', cursive;
+}
+#result {
+    color: #3FC5F0;
+    text-align: center;
+    font-size: 98px;
+    margin-top: 50px;
+    font-weight: 600;
+    font-family: 'Handjet', cursive;
+    display: inline;
+    margin-left: 350px;
+
+    
+
+}
